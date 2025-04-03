@@ -1,6 +1,11 @@
 # 小猫补光灯
 
+[GitHub仓库](https://github.com/wukongnotnull/cat-light)
+
 小猫补光灯是一款简洁优雅的iOS补光灯应用，专为爱美人士设计。通过丰富的预设场景和精细的光线调节功能，为用户提供完美的补光效果。
+
+## 应用界面
+![应用界面预览](ui.png)
 
 ## 主要特点
 
@@ -48,7 +53,9 @@
 - 支持iPhone和iPad设备
 
 ## 开发者
-悟空老师(悟空非空也)
+[悟空老师](https://wukongnotnull.tech)(悟空非空也)
 
 ## 版权信息
-© 2025 小猫补光灯。保留所有权利。
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+本项目采用 MIT 许可证开源，详情请参阅 [LICENSE](LICENSE) 文件。
